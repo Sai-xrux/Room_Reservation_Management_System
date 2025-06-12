@@ -1,7 +1,7 @@
 #pragma once	//防止头文件重复包含
 #include <iostream>
 using namespace std;
-
+#include "string"
 
 //身份抽象基类
 class Identity

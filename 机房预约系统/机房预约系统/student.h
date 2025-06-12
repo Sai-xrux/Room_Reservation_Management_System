@@ -6,6 +6,7 @@ using namespace std;
 //学生类
 class Student :public Identity
 {
+public:
 
 	//默认构造
 	Student();
